@@ -1,0 +1,12 @@
+D:\Мои роботы\C# project\PlTpAllPlayers\PlTpAllPlayers\bin\Debug\net6.0\PlTpAllPlayers.deps.json
+D:\Мои роботы\C# project\PlTpAllPlayers\PlTpAllPlayers\bin\Debug\net6.0\PlTpAllPlayers.dll
+D:\Мои роботы\C# project\PlTpAllPlayers\PlTpAllPlayers\bin\Debug\net6.0\PlTpAllPlayers.pdb
+D:\Мои роботы\C# project\PlTpAllPlayers\PlTpAllPlayers\obj\Debug\net6.0\PlTpAllPlayers.csproj.AssemblyReference.cache
+D:\Мои роботы\C# project\PlTpAllPlayers\PlTpAllPlayers\obj\Debug\net6.0\PlTpAllPlayers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Мои роботы\C# project\PlTpAllPlayers\PlTpAllPlayers\obj\Debug\net6.0\PlTpAllPlayers.AssemblyInfoInputs.cache
+D:\Мои роботы\C# project\PlTpAllPlayers\PlTpAllPlayers\obj\Debug\net6.0\PlTpAllPlayers.AssemblyInfo.cs
+D:\Мои роботы\C# project\PlTpAllPlayers\PlTpAllPlayers\obj\Debug\net6.0\PlTpAllPlayers.csproj.CoreCompileInputs.cache
+D:\Мои роботы\C# project\PlTpAllPlayers\PlTpAllPlayers\obj\Debug\net6.0\PlTpAllPlayers.dll
+D:\Мои роботы\C# project\PlTpAllPlayers\PlTpAllPlayers\obj\Debug\net6.0\refint\PlTpAllPlayers.dll
+D:\Мои роботы\C# project\PlTpAllPlayers\PlTpAllPlayers\obj\Debug\net6.0\PlTpAllPlayers.pdb
+D:\Мои роботы\C# project\PlTpAllPlayers\PlTpAllPlayers\obj\Debug\net6.0\ref\PlTpAllPlayers.dll

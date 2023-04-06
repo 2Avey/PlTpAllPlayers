@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WVSLpGUN/rEfVzXtCcU4Mnk/S6wrn7eqwPOXjDN/3aCCxkEi2CetO751IKBUKsK6YV5i+lBDt0I4b/EiLfDIyg==",
+  "success": true,
+  "projectFilePath": "D:\\Мои роботы\\C# project\\PlTpAllPlayers\\PlTpAllPlayers\\PlTpAllPlayers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Avey\\.nuget\\packages\\openmod.unityengine.redist\\2019.4.10\\openmod.unityengine.redist.2019.4.10.nupkg.sha512",
+    "C:\\Users\\Avey\\.nuget\\packages\\openmod.unturned.redist\\3.22.8.1\\openmod.unturned.redist.3.22.8.1.nupkg.sha512",
+    "C:\\Users\\Avey\\.nuget\\packages\\rocketmod.modern.dependencies\\1.1.2.5\\rocketmod.modern.dependencies.1.1.2.5.nupkg.sha512"
+  ],
+  "logs": []
+}
